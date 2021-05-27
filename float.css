@@ -1,0 +1,26 @@
+  .testimonal{
+    width: 100%;
+    height: 350px;
+    background-color: #F8F9FC;
+    padding: 50px  300px;
+  }  
+  .tst-container {
+    background-color:white;
+    width: 550px;
+    padding: 30px;
+  } 
+  .tst-img img{
+    height: 200px;
+    width: 150px;
+    border: 5px solid gray; 
+  } 
+  .tst-img {
+      float: left;
+      margin:40px  40px;
+     
+  }  
+  .tst-content {
+    width: 550px;
+    height: 300px;
+    padding-top: 15px;
+  }
