@@ -1,0 +1,156 @@
+
+        body{
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+        }
+        body p {
+            font-size: 16px;
+            color:#3E3E3E;
+            font-weight: lighter;
+        }
+        section {
+            margin-bottom: 200px;
+        }
+        h1, h2 {
+            font-family: 'Bebas Neue', cursive;
+            text-transform: uppercase;
+        }
+        nav li {
+            display: inline;
+        }
+        nav li a {
+            text-decoration: none;
+            color: #3C3C3C;
+            font-weight: 200;
+            font-size: 16px;
+            padding: 100px 20px;
+        }
+        nav{
+            margin-left: 900px;
+        }
+
+        /* top-area  */
+        .top-area , .about-section {
+            height: 350px;
+            padding-top: 80px;
+            background-color: #FFFFFF;
+        }
+        .top-area h1{
+            font-size: 80px;
+            font-weight: 500;
+            padding: 0;
+            margin: 0;
+        }
+        .margin-bottom {
+            margin-bottom: 100px;
+
+        }
+        .half-part {
+            width: 40%;
+            float: left;
+            margin-left: 5%;
+            padding-left: 2%;
+        }
+        .half-part img {
+            width: 100%;
+        }
+        .about-section h1 {
+            font-size: 48px;
+            font-weight: 500;
+            
+        }
+        /* project area  */
+        .myProjects{
+            height: 814px;
+            background: #F8F9FC;
+            padding-left: 5%;
+            padding-top: 125px;
+        }
+        .myProjects h1 {
+            font-family: 'Bebas Neue', cursive;
+            text-transform: uppercase;
+            font-size: 48px;
+            font-weight: 500;
+            text-align: center;
+            padding-bottom: 93px;
+        }
+        .myProjects h2 {
+            font-family:'Roboto', sans-serif ;
+            text-transform: capitalize;
+        }
+        .text-highlight{
+            color: #F46060;
+        }
+        .box-projects{
+            height: 374px;
+            width: 25.7%;
+            margin-left: 2.08%;
+            padding: 1.40%;
+            float: left;
+            border-radius: 19.74px;
+            background: #FFFFFF;
+            padding: 1;
+            box-shadow: 5px 5px 20px rgb(216, 214, 214)
+
+        }
+        .box-projects img{
+            width: 100%;
+        }
+        /* working queiary section */
+        .workInquery {
+            background: url(images/inquery.png);
+            background-size: cover;
+            width: 906px;
+            height: 225px;
+            margin: auto;
+        }
+        .inquery-content{
+            padding-left: 70px;
+            padding-top: 40px;
+        }
+        .float {
+            float: left;
+        }
+        .inquery-content h1{
+            font-size: 64px;
+            color: #FFFFFF;
+            font-style: normal;
+            font-weight: 500;
+        }
+        /* footer section  */
+        .btn-style {
+          background-image: linear-gradient(#FF8063,#F46060);  
+          padding: 18px 32px;
+          font-family: roboto;
+          color: #FFFFFF;
+          border-radius: 6px;
+          text-decoration: none;
+          font-size: 16px;
+          font-weight: 500;  
+        }
+        .btnPart {
+            padding-left: 354px;
+            margin-top: 120px;
+        }
+        .footerContent h3{
+            font-weight: 500;
+            font-size: 24px;
+            color: #696871;
+            font-style: normal;
+            font-family: 'Roboto', sans-serif;
+        }
+        .footerContent h1 {
+            font-family: 'Roboto', sans-serif;
+            font-weight: 700;
+            text-transform: lowercase;
+            color: #363958;
+            font-size: 36px;
+        }
+        .footerContent {
+            text-align: center;
+        }
+        .socilaIcon img {
+            width: 40px;
+            height: 40px;
+            padding: 28px;
+             }
